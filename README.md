@@ -50,9 +50,15 @@ This Repo will hold a wide spread of mathematical, statistical and financial cal
   </tr>
   
   <tr>
-    <td>MEAN Stack</td>
-    <td>MEAN Stack</td>
+    <td>Express (MEAN Stack)</td>
+    <td>Angular 5 (MEAN Stack)</td>
     <td>Bulma CSS</td>
   </tr>
   </table>
+  
+  <h2>Databases</h2>
+  
+  A user will be able to quickly create an account which they can use to save calculations for future reference. As such, I will use a database to both store the user information, as well as calculations.
+  
+  Both a traditional MySQL (mariaDB) and MongoDB will be employed. If possible, I would like to keep both with the same information, but I realize that might not be entirely feasible. Still, I welcome a challenge. Perhaps I can add a toggle to switch your application to use one database or the other, just for kicks.
   
