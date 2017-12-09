@@ -8,6 +8,7 @@ This Repo will hold a wide spread of mathematical, statistical and financial cal
 <h2>Planned combinations:</h2>
 
 <table>
+	<caption>PHP Based</caption>
   <tr>
     <th>Backend</th>
     <th>Frontend</th>
@@ -18,37 +19,82 @@ This Repo will hold a wide spread of mathematical, statistical and financial cal
     <td>Vanilla JS</td>
     <td>SASS</td>
   </tr>
-  
+
   <tr>
-    <td>CodeIgniter (PHP)</td>
-    <td>jQuery</td>
-    <td>PureCSS</td>
+  	<td>Slim</td>
+  	<td>TypeScript</td>
+  	<td>PureCSS</td>
   </tr>
   
   <tr>
-    <td>Laravel (PHP)</td>
+    <td>CodeIgniter</td>
+    <td>jQuery</td>
+    <td>Kube</td>
+  </tr>
+  
+  <tr>
+    <td>Laravel</td>
     <td>VueJS + Vuex</td>
     <td>Vuetify</td>
   </tr>
   
   <tr>
-    <td>Symfony (PHP)</td>
+    <td>Symfony</td>
     <td>React + Redux</td>
     <td>Bootstrap 4</td>
   </tr>
-  
+</table>
+
+<table>
+	<caption>Ruby Based</caption>
   <tr>
-    <td>Ruby of Rails (Ruby)</td>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>CSS</th>
+  </tr>
+  <tr>
+    <td>Ruby of Rails</td>
     <td>MeteorJS</td>
     <td>Materialize</td>
   </tr>
-  
   <tr>
-    <td>Django (Python)</td>
+  	<td>Hanami</td>
+  	<td>?</td>
+  	<td>?</td>
+  </tr>
+  <tr>
+  	<td>Volt</td>
+  	<td>?</td>
+  	<td>?</td>
+  </tr>
+</table>
+  
+<table>
+	<caption>Python Based</caption>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>CSS</th>
+  </tr>
+  <tr>
+    <td>Django</td>
     <td>Angular 1</td>
     <td>Foundation</td>
   </tr>
-  
+  <tr>
+    <td>Flask</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  </table>
+
+<table>
+	<caption>JavaScript Based</caption>
+   <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>CSS</th>
+  </tr>
   <tr>
     <td>Express (MEAN Stack)</td>
     <td>Angular 5 (MEAN Stack)</td>
@@ -60,5 +106,5 @@ This Repo will hold a wide spread of mathematical, statistical and financial cal
   
   A user will be able to quickly create an account which they can use to save calculations for future reference. As such, I will use a database to both store the user information, as well as calculations.
   
-  Both a traditional MySQL (mariaDB) and MongoDB will be employed. If possible, I would like to keep both with the same information, but I realize that might not be entirely feasible. Still, I welcome a challenge. Perhaps I can add a toggle to switch your application to use one database or the other, just for kicks.
+  In order for this to truly be a mastery level project, I will use several databases, and keep them all up to date for the project. 
   
