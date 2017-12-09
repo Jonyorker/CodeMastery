@@ -106,5 +106,5 @@ This Repo will hold a wide spread of mathematical, statistical and financial cal
   
   A user will be able to quickly create an account which they can use to save calculations for future reference. As such, I will use a database to both store the user information, as well as calculations.
   
-  In order for this to truly be a mastery level project, I will use several databases, and keep them all up to date for the project. 
+  In order for this to truly be a mastery level project, I will use several databases, and keep them all up to date for the project. Since most frameworks leverage some sort of ORM / ODBC, I will be making the Pure PHP project write to a SQLite, MySql (MariaDB), PostgreSQL and MongoDB. At this point, I am unsure of how I will handle multiple databases with the frameworks, as they generally want to work with only one of them, so I may write the plain PHP as an API that I can AJAX data to in order to ensure all databases are kept up with the same information at all times.
   
