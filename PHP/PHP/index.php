@@ -4,7 +4,7 @@
 
 <h2>Geometry</h2>
 <ul>
-	<li>Pythagorean Theorem</li>
+	<li><a href="geometry.php">Pythagorean Theorem</a></li>
 </ul>
 
 <?php require "./template/footer.php" ?>

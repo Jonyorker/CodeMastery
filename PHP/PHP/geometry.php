@@ -1,13 +1,13 @@
 <?php require "./template/header.php" ?>
 
 <strong>Pythagorean Theorem
-<form action="geometry2.php/pyth" method="post">
-	<label>A</label>
+<form action="javascript:;" onsubmit="pythagorean()">
+	<label>Side 1</label>
 	<input type="text" name="A">
-	<lable>B</lable>
+	<lable>Side 2</lable>
 	<input type="text" name="B">
-	<label>C</label>
-	<span id="hypoteneuse"><?php echo $C ?></span>
+	<lable>Hypoteneuse</lable>
+	<input type="text" name="C">
 	<input type="submit">
 </form>
 
